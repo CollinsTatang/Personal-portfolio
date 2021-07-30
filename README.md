@@ -7,6 +7,7 @@
 - Commit and push all your work into the project's GitHub repository.
 - Merge all branches into the main branch.
 - Deploy website using GitHub Pages.
+  
 ========
 
 ## Built With 
